@@ -20,20 +20,20 @@
 <img src="https://img.shields.io/badge/AdobeIllustrator-FF9A00?style=flat-square&logo=AdobeIllustrator&logoColor=white"/>
 
 ## 📖 Education
-#### AI 기반 챗봇 및 OCR 개발 전문가 과정
+#### 1. AI 기반 챗봇 및 OCR 개발 전문가 과정
 **기간** 2023.08.30 ~ 2024.03.07 <br>
-**교육 장소** 코리아 IT 아카데미
+**교육 장소** 코리아 IT 아카데미 <br>
+**내용** python 기초문법을 배운 후 web서비스를 위한 node.js, python 서버, html, css, javascript, react native 등을 배운 후 공공API를 사용한 앱을 개발하였고 챗봇 프로젝트를 진행하기 위해 데이터 분석(numpy, pandas, matplotlib), 크롤링, 자연어처리, 머신러닝, 딥러닝등을 공부하여 직접 데이터를 수집하고 서버를 구축 및 모델을 학습시켜 챗봇 프로젝트를 진행하였습니다. 컴퓨터비전(cv2), OCR를 공부하고 활용하여 마지막 컴퓨터비전 프로젝트를 작업 후 성공적으로 해당 과정을 마무리하였습니다.
 
 ## 💡 Project Work
 #### KDT 1차 프로젝트 - 밥장수
-<img width="100%" alt="image" src="https://github.com/sakongmyoungheun/test/assets/149550142/0be5d4f4-7924-4658-ae32-e3c8a84897a6">
+<img width="100%" alt="image" src="https://github.com/sakongmyoungheun/Bab-jang-su/assets/149550142/8f8df5e2-e3ee-4dda-9671-05384c6068db">
 
 #### KDT 2차 프로젝트 - 커플논쟁
+<img width="100%" alt="image" src="https://github.com/sakongmyoungheun/sakongmyoungheun/assets/149550142/bad9805a-61a8-47cc-878f-a8f2fec106ed">
 
 #### KDT 3차 프로젝트 - 어울림
-
-## 🏆 Award & Certification
-####
+<img width="100%" alt="image" src="https://github.com/sakongmyoungheun/sakongmyoungheun/assets/149550142/e6d5cb94-c641-4086-be0d-e0d17b6eab36">
 
 <!--
 **sakongmyoungheun/sakongmyoungheun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
